@@ -179,7 +179,7 @@ const HeroSection = () => {
                     <span className="text-green-600">'Next.js'</span>
                     <span className="text-gray-500">,</span>{' '}
                     <span className="text-green-600">'Node.js'</span>
-                    <span className="text-gray-500">,</span>{' '}
+                    <span className="text-gray-500">,</span>{''}
                     <span className="text-green-600">'Tailwind'</span>
                     <span className="text-orange-500">]</span>
                     <span className="text-gray-500">,</span>
