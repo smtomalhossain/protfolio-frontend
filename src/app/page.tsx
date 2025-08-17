@@ -9,7 +9,7 @@ export default function Home() {
 
   return (
 
-    <section className="container bg-gradient-to-r from-blue-100 to-blue-400
+    <section className=" bg-gradient-to-r from-blue-100 to-blue-400
         min-h-screen relative overflow-hidden">
 
       <main className="lg:pt-[72px] max-sm:pt-[6px] px-2 sm:px-4 md:px-8 lg:px-12 xl:px-30">
